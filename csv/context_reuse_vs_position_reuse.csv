@@ -1,0 +1,5 @@
+reuse_type,tokens,token_share
+content_reuse_total,119896065,0.9449114689773177
+strict_position_reuse,38483561,0.30329234037821184
+position_shifted_pic_only,81412504,0.6416191285991059
+cold_new,6989965,0.055088531022682324

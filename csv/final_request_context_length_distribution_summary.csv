@@ -1,0 +1,2 @@
+original_records,kept_records,trimmed_records,trim_low_cut,trim_high_cut,mean,median,p90,p95,min,max
+400,392,8,3035.65,31876.399999999998,15829.798469387755,12063.0,27318.9,27545.6,3036,31876
